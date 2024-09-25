@@ -1,0 +1,111 @@
+[2024-09-16T11:05:43.595Z] ID Médico: 1, Fecha: 2024-09-16, Hora: 10:00, Día: lunes
+[2024-09-16T11:05:43.596Z] Horarios para el día lunes: {"dia":"lunes","horarios":["07:00-15:00"]}
+[2024-09-16T11:05:43.596Z] Comparando cita: 10:00 con horario: 07:00-15:00
+[2024-09-16T11:05:43.596Z] Cita válida: true
+[2024-09-16T11:05:43.598Z] ID Médico: 1, Fecha: 2024-09-16, Hora: 16:00, Día: lunes
+[2024-09-16T11:05:43.599Z] Horarios para el día lunes: {"dia":"lunes","horarios":["07:00-15:00"]}
+[2024-09-16T11:05:43.599Z] Comparando cita: 16:00 con horario: 07:00-15:00
+[2024-09-16T11:05:43.599Z] Cita válida: false
+[2024-09-16T11:05:43.600Z] ID Médico: 999, Fecha: 2024-09-16, Hora: 10:00, Día: lunes
+[2024-09-16T11:05:43.600Z] Horario del médico no encontrado
+[2024-09-16T11:05:43.601Z] ID Médico: 2, Fecha: 2024-09-15, Hora: 10:00, Día: domingo
+[2024-09-16T11:05:43.601Z] Horarios para el día domingo: undefined
+[2024-09-16T11:05:43.601Z] Horario para el día seleccionado no encontrado
+[2024-09-16T11:05:43.604Z] Error consultando citas: db is not defined
+[2024-09-16T11:05:43.612Z] Error consultando citas: db is not defined
+[2024-09-16T11:05:43.613Z] Error consultando citas: db is not defined
+[2024-09-16T11:06:54.160Z] ID Médico: 1, Fecha: 2024-09-16, Hora: 10:00, Día: lunes
+[2024-09-16T11:06:54.160Z] Horarios para el día lunes: {"dia":"lunes","horarios":["07:00-15:00"]}
+[2024-09-16T11:06:54.160Z] Comparando cita: 10:00 con horario: 07:00-15:00
+[2024-09-16T11:06:54.161Z] Cita válida: true
+[2024-09-16T11:06:54.163Z] ID Médico: 1, Fecha: 2024-09-16, Hora: 16:00, Día: lunes
+[2024-09-16T11:06:54.163Z] Horarios para el día lunes: {"dia":"lunes","horarios":["07:00-15:00"]}
+[2024-09-16T11:06:54.163Z] Comparando cita: 16:00 con horario: 07:00-15:00
+[2024-09-16T11:06:54.163Z] Cita válida: false
+[2024-09-16T11:06:54.164Z] ID Médico: 999, Fecha: 2024-09-16, Hora: 10:00, Día: lunes
+[2024-09-16T11:06:54.164Z] Horario del médico no encontrado
+[2024-09-16T11:06:54.165Z] ID Médico: 2, Fecha: 2024-09-15, Hora: 10:00, Día: domingo
+[2024-09-16T11:06:54.165Z] Horarios para el día domingo: undefined
+[2024-09-16T11:06:54.166Z] Horario para el día seleccionado no encontrado
+[2024-09-16T11:06:54.167Z] 1,2024-09-16,10:00
+[2024-09-16T11:06:54.167Z] 1,2024-09-16,09:00
+[2024-09-16T11:06:54.168Z] Error consultando citas: Error de base de datos
+[2024-09-16T11:11:39.485Z] ID Médico: 2, Fecha: 2024-09-16, Hora: 10:00, Día: lunes
+[2024-09-16T11:11:39.485Z] Horarios para el día lunes: {"dia":"lunes","horarios":["08:00-16:00"]}
+[2024-09-16T11:11:39.486Z] Comparando cita: 10:00 con horario: 08:00-16:00
+[2024-09-16T11:11:39.486Z] Cita válida: true
+[2024-09-16T11:11:39.516Z] 2,2024-09-16,10:00
+[2024-09-16T11:11:53.621Z] ID Médico: 2, Fecha: 2024-09-16, Hora: 10:00, Día: lunes
+[2024-09-16T11:11:53.621Z] Horarios para el día lunes: {"dia":"lunes","horarios":["08:00-16:00"]}
+[2024-09-16T11:11:53.621Z] Comparando cita: 10:00 con horario: 08:00-16:00
+[2024-09-16T11:11:53.621Z] Cita válida: true
+[2024-09-16T11:11:53.623Z] 2,2024-09-16,10:00
+[2024-09-16T11:12:00.546Z] ID Médico: 2, Fecha: 2024-08-16, Hora: 10:00, Día: viernes
+[2024-09-16T11:12:00.546Z] Horarios para el día viernes: {"dia":"viernes","horarios":["08:00-16:00"]}
+[2024-09-16T11:12:00.546Z] Comparando cita: 10:00 con horario: 08:00-16:00
+[2024-09-16T11:12:00.547Z] Cita válida: true
+[2024-09-16T11:12:00.548Z] 2,2024-08-16,10:00
+[2024-09-16T11:14:11.052Z] ID Médico: 2, Fecha: 2024-08-16, Hora: 10:00, Día: viernes
+[2024-09-16T11:14:11.052Z] Horarios para el día viernes: {"dia":"viernes","horarios":["08:00-16:00"]}
+[2024-09-16T11:14:11.052Z] Comparando cita: 10:00 con horario: 08:00-16:00
+[2024-09-16T11:14:11.052Z] Cita válida: true
+[2024-09-16T11:14:11.053Z] 2,2024-08-16,10:00
+[2024-09-16T11:14:28.409Z] ID Médico: 2, Fecha: 2024-09-16, Hora: 10:00, Día: lunes
+[2024-09-16T11:14:28.410Z] Horarios para el día lunes: {"dia":"lunes","horarios":["08:00-16:00"]}
+[2024-09-16T11:14:28.410Z] Comparando cita: 10:00 con horario: 08:00-16:00
+[2024-09-16T11:14:28.410Z] Cita válida: true
+[2024-09-16T11:14:28.411Z] 2,2024-09-16,10:00
+[2024-09-16T11:28:24.613Z] ID Médico: 2, Fecha: 2024-09-16, Hora: 10:00, Día: lunes
+[2024-09-16T11:28:24.614Z] Horarios para el día lunes: {"dia":"lunes","horarios":["08:00-16:00"]}
+[2024-09-16T11:28:24.614Z] Comparando cita: 10:00 con horario: 08:00-16:00
+[2024-09-16T11:28:24.614Z] Cita válida: true
+[2024-09-16T11:28:24.615Z] 2,2024-09-16,10:00
+[2024-09-16T11:58:36.785Z] ID Médico: 2, Fecha: 2024-08-16, Hora: 10:00, Día: viernes
+[2024-09-16T11:58:36.785Z] Horarios para el día viernes: {"dia":"viernes","horarios":["08:00-16:00"]}
+[2024-09-16T11:58:36.785Z] Comparando cita: 10:00 con horario: 08:00-16:00
+[2024-09-16T11:58:36.786Z] Cita válida: true
+[2024-09-16T11:58:36.786Z] 2,2024-08-16,10:00
+[2024-09-16T12:47:43.768Z] ID Médico: 2, Fecha: 2024-08-16, Hora: 10:00, Día: viernes
+[2024-09-16T12:47:43.768Z] Horarios para el día viernes: {"dia":"viernes","horarios":["08:00-16:00"]}
+[2024-09-16T12:47:43.768Z] Comparando cita: 10:00 con horario: 08:00-16:00
+[2024-09-16T12:47:43.769Z] Cita válida: true
+[2024-09-16T12:47:43.770Z] 2,2024-08-16,10:00
+[2024-09-16T12:48:06.853Z] ID Médico: 1, Fecha: 2024-09-18, Hora: 11:48, Día: miércoles
+[2024-09-16T12:48:06.854Z] Horarios para el día miércoles: {"dia":"miércoles","horarios":["07:00-15:00"]}
+[2024-09-16T12:48:06.854Z] Comparando cita: 11:48 con horario: 07:00-15:00
+[2024-09-16T12:48:06.854Z] Cita válida: true
+[2024-09-16T12:48:06.855Z] 1,2024-09-18,11:48
+[2024-09-16T12:49:28.924Z] ID Médico: 3, Fecha: 2024-09-25, Hora: 10:49, Día: miércoles
+[2024-09-16T12:49:28.924Z] Horarios para el día miércoles: {"dia":"miércoles","horarios":["09:00-17:00"]}
+[2024-09-16T12:49:28.924Z] Comparando cita: 10:49 con horario: 09:00-17:00
+[2024-09-16T12:49:28.925Z] Cita válida: true
+[2024-09-16T12:49:28.925Z] 3,2024-09-25,10:49
+[2024-09-24T20:34:24.107Z] ID Médico: 3, Fecha: 2024-09-22, Hora: 15:34, Día: domingo
+[2024-09-24T20:34:24.108Z] Horarios para el día domingo: undefined
+[2024-09-24T20:34:24.108Z] Horario para el día seleccionado no encontrado
+[2024-09-24T20:34:24.109Z] 3,2024-09-22,15:34
+[2024-09-24T20:34:52.928Z] ID Médico: 3, Fecha: 2024-09-25, Hora: 18:00, Día: miércoles
+[2024-09-24T20:34:52.928Z] Horarios para el día miércoles: {"dia":"miércoles","horarios":["09:00-17:00"]}
+[2024-09-24T20:34:52.928Z] Comparando cita: 18:00 con horario: 09:00-17:00
+[2024-09-24T20:34:52.929Z] Cita válida: false
+[2024-09-24T20:34:52.929Z] 3,2024-09-25,18:00
+[2024-09-24T20:35:16.433Z] ID Médico: 3, Fecha: 2024-09-25, Hora: 15:30, Día: miércoles
+[2024-09-24T20:35:16.433Z] Horarios para el día miércoles: {"dia":"miércoles","horarios":["09:00-17:00"]}
+[2024-09-24T20:35:16.433Z] Comparando cita: 15:30 con horario: 09:00-17:00
+[2024-09-24T20:35:16.434Z] Cita válida: true
+[2024-09-24T20:35:16.435Z] 3,2024-09-25,15:30
+[2024-09-24T20:40:45.410Z] ID Médico: 3, Fecha: 2024-09-25, Hora: 15:30, Día: miércoles
+[2024-09-24T20:40:45.411Z] Horarios para el día miércoles: {"dia":"miércoles","horarios":["09:00-17:00"]}
+[2024-09-24T20:40:45.411Z] Comparando cita: 15:30 con horario: 09:00-17:00
+[2024-09-24T20:40:45.411Z] Cita válida: true
+[2024-09-24T20:40:45.412Z] 3,2024-09-25,15:30
+[2024-09-24T20:41:02.001Z] ID Médico: 3, Fecha: 2024-09-25, Hora: 15:29, Día: miércoles
+[2024-09-24T20:41:02.002Z] Horarios para el día miércoles: {"dia":"miércoles","horarios":["09:00-17:00"]}
+[2024-09-24T20:41:02.002Z] Comparando cita: 15:29 con horario: 09:00-17:00
+[2024-09-24T20:41:02.002Z] Cita válida: true
+[2024-09-24T20:41:02.003Z] 3,2024-09-25,15:29
+[2024-09-24T20:41:28.499Z] ID Médico: 3, Fecha: 2024-09-25, Hora: 15:40, Día: miércoles
+[2024-09-24T20:41:28.500Z] Horarios para el día miércoles: {"dia":"miércoles","horarios":["09:00-17:00"]}
+[2024-09-24T20:41:28.500Z] Comparando cita: 15:40 con horario: 09:00-17:00
+[2024-09-24T20:41:28.500Z] Cita válida: true
+[2024-09-24T20:41:28.501Z] 3,2024-09-25,15:40

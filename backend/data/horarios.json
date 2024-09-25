@@ -1,0 +1,34 @@
+{
+  "1": [
+    { "dia": "lunes", "horarios": ["07:00-15:00"] },
+    { "dia": "martes", "horarios": ["07:00-15:00"] },
+    { "dia": "miércoles", "horarios": ["07:00-15:00"] },
+    { "dia": "jueves", "horarios": ["07:00-15:00"] },
+    { "dia": "viernes", "horarios": ["07:00-15:00"] },
+    { "dia": "sábado", "horarios": ["07:00-15:00"] }
+  ],
+  "2": [
+    { "dia": "lunes", "horarios": ["08:00-16:00"] },
+    { "dia": "martes", "horarios": ["08:00-16:00"] },
+    { "dia": "miércoles", "horarios": ["08:00-16:00"] },
+    { "dia": "jueves", "horarios": ["08:00-16:00"] },
+    { "dia": "viernes", "horarios": ["08:00-16:00"] },
+    { "dia": "sábado", "horarios": ["08:00-16:00"] }
+  ],
+  "3": [
+    { "dia": "lunes", "horarios": ["09:00-17:00"] },
+    { "dia": "martes", "horarios": ["09:00-17:00"] },
+    { "dia": "miércoles", "horarios": ["09:00-17:00"] },
+    { "dia": "jueves", "horarios": ["09:00-17:00"] },
+    { "dia": "viernes", "horarios": ["09:00-17:00"] },
+    { "dia": "sábado", "horarios": ["09:00-17:00"] }
+  ],
+  "4": [
+    { "dia": "lunes", "horarios": ["10:00-18:00"] },
+    { "dia": "martes", "horarios": ["10:00-18:00"] },
+    { "dia": "miércoles", "horarios": ["10:00-18:00"] },
+    { "dia": "jueves", "horarios": ["10:00-18:00"] },
+    { "dia": "viernes", "horarios": ["10:00-18:00"] },
+    { "dia": "sábado", "horarios": ["10:00-18:00"] }
+  ]
+}
